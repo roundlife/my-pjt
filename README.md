@@ -6,7 +6,7 @@
 2. 압축을 해제한다.
 
 ### version
-- python 3.8.7
+- python 3.8.5
 - Django 2.2
 
 ### code
