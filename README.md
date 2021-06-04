@@ -8,3 +8,5 @@
 ### version
 - python 3.8.7
 - Django 2.2
+
+집에서 만들어졌습니다.
